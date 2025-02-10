@@ -48,6 +48,8 @@ isolation_forest = IsolationForest(contamination=0.05, random_state=42)
 rainfall_data['Annual_Anomaly'] = isolation_forest.fit_predict(rainfall_data[['ANNUAL']])
 ```
 
+![Anamalies](https://github.com/user-attachments/assets/fed39b71-62e1-484e-9ada-42a3eb039a9b)
+
 ### **2. K-Means Clustering for Rainfall Patterns**
 ```python
 from sklearn.cluster import KMeans
@@ -57,6 +59,7 @@ scaler = StandardScaler()
 kmeans = KMeans(n_clusters=3, random_state=42)
 rainfall_data['Rainfall_Cluster'] = kmeans.fit_predict(scaler.fit_transform(rainfall_data[['Jan-Feb', 'Mar-May', 'Jun-Sep', 'Oct-Dec', 'ANNUAL']]))
 ```
+![Rainfall Clustering](https://github.com/user-attachments/assets/92d9a2b7-3cfb-4954-a2fd-af6fd2a313de)
 
 ### **3. Forecast Future Rainfall Trends (Next 30 Years)**
 ```python
@@ -74,7 +77,8 @@ The project includes **interactive plots** for:
 - **Clustered Rainfall Patterns**
 - **Future Rainfall Forecast (Prophet, ARIMA)**
 
----
+---![Impact of Climate Change](https://github.com/user-attachments/assets/29408f62-e43a-4ac7-b0c4-be80652d8570)
+
 
 💡 **Contributions Welcome!** If you find this useful, feel free to open an issue or submit a PR.
 
