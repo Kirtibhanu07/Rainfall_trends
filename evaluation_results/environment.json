@@ -1,0 +1,18 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.14.1",
+    "scikit-learn": "1.7.2",
+    "statsmodels": "0.14.5",
+    "prophet": "1.1.7",
+    "matplotlib": "3.10.3",
+    "cmdstanpy": "1.2.5"
+  },
+  "upstream_commit": "1d2143cf845ed8e280a0a9f9b32807e9537dd06b",
+  "evaluation_script_sha256": "8f524e6f3149f38ebffb48963d73ef13ae8d18377325a8471c16b91db8e2e857",
+  "experiment_plan_sha256": "e8631da7e17485d007a3f60bf53740ddc0a1a5663eabc11f0af8c9d9815b8686",
+  "test_count": 12
+}

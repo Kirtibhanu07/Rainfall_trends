@@ -1,0 +1,9 @@
+{
+  "rows": 115,
+  "first_year": 1901,
+  "last_year": 2015,
+  "missing_numeric_values": 0,
+  "duplicate_years": 0,
+  "max_month_sum_discrepancy_mm": 0.3000000000001819,
+  "sha256": "e9325c98c594fa48721d587b37cb946adb43ddb7e2e38f7f744721a0a5a5b472"
+}

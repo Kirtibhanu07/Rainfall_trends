@@ -1,0 +1,15 @@
+{
+  "n_pairs": 20,
+  "rmse_reduction_mm": 12.454510413340046,
+  "rmse_reduction_95pct_block_bootstrap_ci_mm": [
+    -2.7969640905982867,
+    25.13642565164709
+  ],
+  "bootstrap_seed": 42,
+  "bootstrap_resamples": 10000,
+  "block_length": 4,
+  "approximate_dm_statistic": 1.3898093998255947,
+  "approximate_dm_two_sided_p": 0.18065771381722456,
+  "warning": "Exploratory small-sample inference, not proof of future performance or a randomized experiment.",
+  "comparison": "Original ARIMA(3,1,2) versus validation-selected historical mean. Sign reversal of the predefined paired comparison, not an additional independent test."
+}

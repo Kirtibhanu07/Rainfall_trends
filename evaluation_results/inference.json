@@ -1,0 +1,14 @@
+{
+  "n_pairs": 20,
+  "rmse_reduction_mm": -12.45451041334006,
+  "rmse_reduction_95pct_block_bootstrap_ci_mm": [
+    -25.136425651647123,
+    2.7969640905982716
+  ],
+  "bootstrap_seed": 42,
+  "bootstrap_resamples": 10000,
+  "block_length": 4,
+  "approximate_dm_statistic": -1.3898093998255943,
+  "approximate_dm_two_sided_p": 0.1806577138172248,
+  "warning": "Exploratory small-sample inference, not proof of future performance or a randomized experiment."
+}

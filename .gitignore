@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mplconfig/
+*.pyc
+evaluation_run.log
+evaluation_results/evaluation.png
