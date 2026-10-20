@@ -1,0 +1,3 @@
+Benchmarked 22 forecasting configurations using chronological validation and expanding-window backtesting on 115 annual rainfall observations. Measured ARIMA MAE of 80.8 mm and RMSE of 95.8 mm across 20 final-test years, with 24.2% lower RMSE than a previous-year baseline. Added paired block-bootstrap uncertainty estimates and a training-only trend hypothesis test. The validation-selected historical_mean had a final-test RMSE of 108.3 mm, so model ranking did not fully generalize.
+
+These are results of the current assisted project extension. Review the implementation and reproduce results before presenting it as your own work.

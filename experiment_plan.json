@@ -1,0 +1,22 @@
+{
+  "target": "All-India annual rainfall in mm",
+  "forecast_horizon_years": 1,
+  "initial_training": [1901, 1975],
+  "validation": [1976, 1995],
+  "final_test": [1996, 2015],
+  "protocol": "Expanding-window one-year-ahead backtesting. Refit at each origin using only earlier years. Select configurations and overall recommendation using validation RMSE only. Do not change settings based on final-test results.",
+  "features": "Only annual rainfall observed before the forecast year. Same-year seasonal totals and months are excluded because they reveal the target.",
+  "baselines": ["historical_mean", "last_year", "rolling_5", "rolling_10", "rolling_20", "drift"],
+  "arima_orders": [[0,0,0],[1,0,0],[0,0,1],[1,0,1],[2,0,0],[0,1,1],[1,1,0],[3,1,2]],
+  "original_reference": "ARIMA(3,1,2), refitted one step ahead rather than forecasting 30 unvalidated years",
+  "prophet_changepoint_prior_scales": [0.001, 0.01, 0.05],
+  "prophet_seasonality": "All disabled. Annual observations cannot identify within-year seasonality.",
+  "ridge_alphas": [1.0,10.0,100.0],
+  "random_forest_depths": [2,3],
+  "lag_features": [1,2,3,4,5],
+  "random_forest": {"n_estimators":200,"min_samples_leaf":5,"random_state":42},
+  "metrics": ["MAE_mm","RMSE_mm","MASE","bias_mm"],
+  "inference": "Exploratory paired circular block bootstrap, 10000 resamples, block length 4, seed 42, comparing validation-selected recommendation against original ARIMA. Also report an approximate two-sided Diebold-Mariano-style squared-loss test with Newey-West lag 2 and small-sample adjustment. No causal or randomized experiment claims.",
+  "trend_test": "OLS annual rainfall versus year, training data through 1975 only, HAC standard errors with 3 lags. Two-sided zero-slope null. Exploratory, not evidence of a causal climate effect.",
+  "limits": "115 observations. Final test has only 20 annual forecast errors. Historical data ends in 2015. Source dataset provenance is not independently verified. National averages hide regional variation. No randomized experiment. No production deployment."
+}

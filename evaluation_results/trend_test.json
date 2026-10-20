@@ -1,0 +1,14 @@
+{
+  "first_year": 1901,
+  "last_year": 1975,
+  "n": 75,
+  "slope_mm_per_year": 0.8363698435277367,
+  "slope_95pct_ci": [
+    -0.9251421783977183,
+    2.597881865453192
+  ],
+  "two_sided_p": 0.3471278712798709,
+  "null": "Zero linear rainfall trend",
+  "standard_errors": "HAC, 3 lags",
+  "interpretation_limit": "Exploratory association only. Cannot attribute changes to climate or any cause."
+}

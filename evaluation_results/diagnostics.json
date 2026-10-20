@@ -1,0 +1,3162 @@
+[
+  {
+    "model": "historical_mean",
+    "year": 1976
+  },
+  {
+    "model": "historical_mean",
+    "year": 1977
+  },
+  {
+    "model": "historical_mean",
+    "year": 1978
+  },
+  {
+    "model": "historical_mean",
+    "year": 1979
+  },
+  {
+    "model": "historical_mean",
+    "year": 1980
+  },
+  {
+    "model": "historical_mean",
+    "year": 1981
+  },
+  {
+    "model": "historical_mean",
+    "year": 1982
+  },
+  {
+    "model": "historical_mean",
+    "year": 1983
+  },
+  {
+    "model": "historical_mean",
+    "year": 1984
+  },
+  {
+    "model": "historical_mean",
+    "year": 1985
+  },
+  {
+    "model": "historical_mean",
+    "year": 1986
+  },
+  {
+    "model": "historical_mean",
+    "year": 1987
+  },
+  {
+    "model": "historical_mean",
+    "year": 1988
+  },
+  {
+    "model": "historical_mean",
+    "year": 1989
+  },
+  {
+    "model": "historical_mean",
+    "year": 1990
+  },
+  {
+    "model": "historical_mean",
+    "year": 1991
+  },
+  {
+    "model": "historical_mean",
+    "year": 1992
+  },
+  {
+    "model": "historical_mean",
+    "year": 1993
+  },
+  {
+    "model": "historical_mean",
+    "year": 1994
+  },
+  {
+    "model": "historical_mean",
+    "year": 1995
+  },
+  {
+    "model": "last_year",
+    "year": 1976
+  },
+  {
+    "model": "last_year",
+    "year": 1977
+  },
+  {
+    "model": "last_year",
+    "year": 1978
+  },
+  {
+    "model": "last_year",
+    "year": 1979
+  },
+  {
+    "model": "last_year",
+    "year": 1980
+  },
+  {
+    "model": "last_year",
+    "year": 1981
+  },
+  {
+    "model": "last_year",
+    "year": 1982
+  },
+  {
+    "model": "last_year",
+    "year": 1983
+  },
+  {
+    "model": "last_year",
+    "year": 1984
+  },
+  {
+    "model": "last_year",
+    "year": 1985
+  },
+  {
+    "model": "last_year",
+    "year": 1986
+  },
+  {
+    "model": "last_year",
+    "year": 1987
+  },
+  {
+    "model": "last_year",
+    "year": 1988
+  },
+  {
+    "model": "last_year",
+    "year": 1989
+  },
+  {
+    "model": "last_year",
+    "year": 1990
+  },
+  {
+    "model": "last_year",
+    "year": 1991
+  },
+  {
+    "model": "last_year",
+    "year": 1992
+  },
+  {
+    "model": "last_year",
+    "year": 1993
+  },
+  {
+    "model": "last_year",
+    "year": 1994
+  },
+  {
+    "model": "last_year",
+    "year": 1995
+  },
+  {
+    "model": "rolling_5",
+    "year": 1976
+  },
+  {
+    "model": "rolling_5",
+    "year": 1977
+  },
+  {
+    "model": "rolling_5",
+    "year": 1978
+  },
+  {
+    "model": "rolling_5",
+    "year": 1979
+  },
+  {
+    "model": "rolling_5",
+    "year": 1980
+  },
+  {
+    "model": "rolling_5",
+    "year": 1981
+  },
+  {
+    "model": "rolling_5",
+    "year": 1982
+  },
+  {
+    "model": "rolling_5",
+    "year": 1983
+  },
+  {
+    "model": "rolling_5",
+    "year": 1984
+  },
+  {
+    "model": "rolling_5",
+    "year": 1985
+  },
+  {
+    "model": "rolling_5",
+    "year": 1986
+  },
+  {
+    "model": "rolling_5",
+    "year": 1987
+  },
+  {
+    "model": "rolling_5",
+    "year": 1988
+  },
+  {
+    "model": "rolling_5",
+    "year": 1989
+  },
+  {
+    "model": "rolling_5",
+    "year": 1990
+  },
+  {
+    "model": "rolling_5",
+    "year": 1991
+  },
+  {
+    "model": "rolling_5",
+    "year": 1992
+  },
+  {
+    "model": "rolling_5",
+    "year": 1993
+  },
+  {
+    "model": "rolling_5",
+    "year": 1994
+  },
+  {
+    "model": "rolling_5",
+    "year": 1995
+  },
+  {
+    "model": "rolling_10",
+    "year": 1976
+  },
+  {
+    "model": "rolling_10",
+    "year": 1977
+  },
+  {
+    "model": "rolling_10",
+    "year": 1978
+  },
+  {
+    "model": "rolling_10",
+    "year": 1979
+  },
+  {
+    "model": "rolling_10",
+    "year": 1980
+  },
+  {
+    "model": "rolling_10",
+    "year": 1981
+  },
+  {
+    "model": "rolling_10",
+    "year": 1982
+  },
+  {
+    "model": "rolling_10",
+    "year": 1983
+  },
+  {
+    "model": "rolling_10",
+    "year": 1984
+  },
+  {
+    "model": "rolling_10",
+    "year": 1985
+  },
+  {
+    "model": "rolling_10",
+    "year": 1986
+  },
+  {
+    "model": "rolling_10",
+    "year": 1987
+  },
+  {
+    "model": "rolling_10",
+    "year": 1988
+  },
+  {
+    "model": "rolling_10",
+    "year": 1989
+  },
+  {
+    "model": "rolling_10",
+    "year": 1990
+  },
+  {
+    "model": "rolling_10",
+    "year": 1991
+  },
+  {
+    "model": "rolling_10",
+    "year": 1992
+  },
+  {
+    "model": "rolling_10",
+    "year": 1993
+  },
+  {
+    "model": "rolling_10",
+    "year": 1994
+  },
+  {
+    "model": "rolling_10",
+    "year": 1995
+  },
+  {
+    "model": "rolling_20",
+    "year": 1976
+  },
+  {
+    "model": "rolling_20",
+    "year": 1977
+  },
+  {
+    "model": "rolling_20",
+    "year": 1978
+  },
+  {
+    "model": "rolling_20",
+    "year": 1979
+  },
+  {
+    "model": "rolling_20",
+    "year": 1980
+  },
+  {
+    "model": "rolling_20",
+    "year": 1981
+  },
+  {
+    "model": "rolling_20",
+    "year": 1982
+  },
+  {
+    "model": "rolling_20",
+    "year": 1983
+  },
+  {
+    "model": "rolling_20",
+    "year": 1984
+  },
+  {
+    "model": "rolling_20",
+    "year": 1985
+  },
+  {
+    "model": "rolling_20",
+    "year": 1986
+  },
+  {
+    "model": "rolling_20",
+    "year": 1987
+  },
+  {
+    "model": "rolling_20",
+    "year": 1988
+  },
+  {
+    "model": "rolling_20",
+    "year": 1989
+  },
+  {
+    "model": "rolling_20",
+    "year": 1990
+  },
+  {
+    "model": "rolling_20",
+    "year": 1991
+  },
+  {
+    "model": "rolling_20",
+    "year": 1992
+  },
+  {
+    "model": "rolling_20",
+    "year": 1993
+  },
+  {
+    "model": "rolling_20",
+    "year": 1994
+  },
+  {
+    "model": "rolling_20",
+    "year": 1995
+  },
+  {
+    "model": "drift",
+    "year": 1976
+  },
+  {
+    "model": "drift",
+    "year": 1977
+  },
+  {
+    "model": "drift",
+    "year": 1978
+  },
+  {
+    "model": "drift",
+    "year": 1979
+  },
+  {
+    "model": "drift",
+    "year": 1980
+  },
+  {
+    "model": "drift",
+    "year": 1981
+  },
+  {
+    "model": "drift",
+    "year": 1982
+  },
+  {
+    "model": "drift",
+    "year": 1983
+  },
+  {
+    "model": "drift",
+    "year": 1984
+  },
+  {
+    "model": "drift",
+    "year": 1985
+  },
+  {
+    "model": "drift",
+    "year": 1986
+  },
+  {
+    "model": "drift",
+    "year": 1987
+  },
+  {
+    "model": "drift",
+    "year": 1988
+  },
+  {
+    "model": "drift",
+    "year": 1989
+  },
+  {
+    "model": "drift",
+    "year": 1990
+  },
+  {
+    "model": "drift",
+    "year": 1991
+  },
+  {
+    "model": "drift",
+    "year": 1992
+  },
+  {
+    "model": "drift",
+    "year": 1993
+  },
+  {
+    "model": "drift",
+    "year": 1994
+  },
+  {
+    "model": "drift",
+    "year": 1995
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_0",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_1",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_0_1",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_2_0_0",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_1_1",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1976,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1977,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1978,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1979,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1980,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1981,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1982,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1983,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1984,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1985,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1986,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1987,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1988,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1989,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1990,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1991,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1992,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1993,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1994,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_1_1_0",
+    "year": 1995,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1976,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1977,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1978,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1979,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1980,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1981,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1982,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1983,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1984,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1985,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1986,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1987,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1988,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1989,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1990,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1991,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1992,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1993,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1994,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1995,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1976
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1977
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1978
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1979
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1980
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1981
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1982
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1983
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1984
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1985
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1986
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1987
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1988
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1989
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1990
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1991
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1992
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1993
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1994
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1995
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1976
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1977
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1978
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1979
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1980
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1981
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1982
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1983
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1984
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1985
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1986
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1987
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1988
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1989
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1990
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1991
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1992
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1993
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1994
+  },
+  {
+    "model": "prophet_0.01",
+    "year": 1995
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1976
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1977
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1978
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1979
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1980
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1981
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1982
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1983
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1984
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1985
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1986
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1987
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1988
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1989
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1990
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1991
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1992
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1993
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1994
+  },
+  {
+    "model": "prophet_0.05",
+    "year": 1995
+  },
+  {
+    "model": "ridge_1",
+    "year": 1976
+  },
+  {
+    "model": "ridge_1",
+    "year": 1977
+  },
+  {
+    "model": "ridge_1",
+    "year": 1978
+  },
+  {
+    "model": "ridge_1",
+    "year": 1979
+  },
+  {
+    "model": "ridge_1",
+    "year": 1980
+  },
+  {
+    "model": "ridge_1",
+    "year": 1981
+  },
+  {
+    "model": "ridge_1",
+    "year": 1982
+  },
+  {
+    "model": "ridge_1",
+    "year": 1983
+  },
+  {
+    "model": "ridge_1",
+    "year": 1984
+  },
+  {
+    "model": "ridge_1",
+    "year": 1985
+  },
+  {
+    "model": "ridge_1",
+    "year": 1986
+  },
+  {
+    "model": "ridge_1",
+    "year": 1987
+  },
+  {
+    "model": "ridge_1",
+    "year": 1988
+  },
+  {
+    "model": "ridge_1",
+    "year": 1989
+  },
+  {
+    "model": "ridge_1",
+    "year": 1990
+  },
+  {
+    "model": "ridge_1",
+    "year": 1991
+  },
+  {
+    "model": "ridge_1",
+    "year": 1992
+  },
+  {
+    "model": "ridge_1",
+    "year": 1993
+  },
+  {
+    "model": "ridge_1",
+    "year": 1994
+  },
+  {
+    "model": "ridge_1",
+    "year": 1995
+  },
+  {
+    "model": "ridge_10",
+    "year": 1976
+  },
+  {
+    "model": "ridge_10",
+    "year": 1977
+  },
+  {
+    "model": "ridge_10",
+    "year": 1978
+  },
+  {
+    "model": "ridge_10",
+    "year": 1979
+  },
+  {
+    "model": "ridge_10",
+    "year": 1980
+  },
+  {
+    "model": "ridge_10",
+    "year": 1981
+  },
+  {
+    "model": "ridge_10",
+    "year": 1982
+  },
+  {
+    "model": "ridge_10",
+    "year": 1983
+  },
+  {
+    "model": "ridge_10",
+    "year": 1984
+  },
+  {
+    "model": "ridge_10",
+    "year": 1985
+  },
+  {
+    "model": "ridge_10",
+    "year": 1986
+  },
+  {
+    "model": "ridge_10",
+    "year": 1987
+  },
+  {
+    "model": "ridge_10",
+    "year": 1988
+  },
+  {
+    "model": "ridge_10",
+    "year": 1989
+  },
+  {
+    "model": "ridge_10",
+    "year": 1990
+  },
+  {
+    "model": "ridge_10",
+    "year": 1991
+  },
+  {
+    "model": "ridge_10",
+    "year": 1992
+  },
+  {
+    "model": "ridge_10",
+    "year": 1993
+  },
+  {
+    "model": "ridge_10",
+    "year": 1994
+  },
+  {
+    "model": "ridge_10",
+    "year": 1995
+  },
+  {
+    "model": "ridge_100",
+    "year": 1976
+  },
+  {
+    "model": "ridge_100",
+    "year": 1977
+  },
+  {
+    "model": "ridge_100",
+    "year": 1978
+  },
+  {
+    "model": "ridge_100",
+    "year": 1979
+  },
+  {
+    "model": "ridge_100",
+    "year": 1980
+  },
+  {
+    "model": "ridge_100",
+    "year": 1981
+  },
+  {
+    "model": "ridge_100",
+    "year": 1982
+  },
+  {
+    "model": "ridge_100",
+    "year": 1983
+  },
+  {
+    "model": "ridge_100",
+    "year": 1984
+  },
+  {
+    "model": "ridge_100",
+    "year": 1985
+  },
+  {
+    "model": "ridge_100",
+    "year": 1986
+  },
+  {
+    "model": "ridge_100",
+    "year": 1987
+  },
+  {
+    "model": "ridge_100",
+    "year": 1988
+  },
+  {
+    "model": "ridge_100",
+    "year": 1989
+  },
+  {
+    "model": "ridge_100",
+    "year": 1990
+  },
+  {
+    "model": "ridge_100",
+    "year": 1991
+  },
+  {
+    "model": "ridge_100",
+    "year": 1992
+  },
+  {
+    "model": "ridge_100",
+    "year": 1993
+  },
+  {
+    "model": "ridge_100",
+    "year": 1994
+  },
+  {
+    "model": "ridge_100",
+    "year": 1995
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1976
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1977
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1978
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1979
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1980
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1981
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1982
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1983
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1984
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1985
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1986
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1987
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1988
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1989
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1990
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1991
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1992
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1993
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1994
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1995
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1976
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1977
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1978
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1979
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1980
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1981
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1982
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1983
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1984
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1985
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1986
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1987
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1988
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1989
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1990
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1991
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1992
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1993
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1994
+  },
+  {
+    "model": "forest_depth_3",
+    "year": 1995
+  },
+  {
+    "model": "historical_mean",
+    "year": 1996
+  },
+  {
+    "model": "historical_mean",
+    "year": 1997
+  },
+  {
+    "model": "historical_mean",
+    "year": 1998
+  },
+  {
+    "model": "historical_mean",
+    "year": 1999
+  },
+  {
+    "model": "historical_mean",
+    "year": 2000
+  },
+  {
+    "model": "historical_mean",
+    "year": 2001
+  },
+  {
+    "model": "historical_mean",
+    "year": 2002
+  },
+  {
+    "model": "historical_mean",
+    "year": 2003
+  },
+  {
+    "model": "historical_mean",
+    "year": 2004
+  },
+  {
+    "model": "historical_mean",
+    "year": 2005
+  },
+  {
+    "model": "historical_mean",
+    "year": 2006
+  },
+  {
+    "model": "historical_mean",
+    "year": 2007
+  },
+  {
+    "model": "historical_mean",
+    "year": 2008
+  },
+  {
+    "model": "historical_mean",
+    "year": 2009
+  },
+  {
+    "model": "historical_mean",
+    "year": 2010
+  },
+  {
+    "model": "historical_mean",
+    "year": 2011
+  },
+  {
+    "model": "historical_mean",
+    "year": 2012
+  },
+  {
+    "model": "historical_mean",
+    "year": 2013
+  },
+  {
+    "model": "historical_mean",
+    "year": 2014
+  },
+  {
+    "model": "historical_mean",
+    "year": 2015
+  },
+  {
+    "model": "last_year",
+    "year": 1996
+  },
+  {
+    "model": "last_year",
+    "year": 1997
+  },
+  {
+    "model": "last_year",
+    "year": 1998
+  },
+  {
+    "model": "last_year",
+    "year": 1999
+  },
+  {
+    "model": "last_year",
+    "year": 2000
+  },
+  {
+    "model": "last_year",
+    "year": 2001
+  },
+  {
+    "model": "last_year",
+    "year": 2002
+  },
+  {
+    "model": "last_year",
+    "year": 2003
+  },
+  {
+    "model": "last_year",
+    "year": 2004
+  },
+  {
+    "model": "last_year",
+    "year": 2005
+  },
+  {
+    "model": "last_year",
+    "year": 2006
+  },
+  {
+    "model": "last_year",
+    "year": 2007
+  },
+  {
+    "model": "last_year",
+    "year": 2008
+  },
+  {
+    "model": "last_year",
+    "year": 2009
+  },
+  {
+    "model": "last_year",
+    "year": 2010
+  },
+  {
+    "model": "last_year",
+    "year": 2011
+  },
+  {
+    "model": "last_year",
+    "year": 2012
+  },
+  {
+    "model": "last_year",
+    "year": 2013
+  },
+  {
+    "model": "last_year",
+    "year": 2014
+  },
+  {
+    "model": "last_year",
+    "year": 2015
+  },
+  {
+    "model": "rolling_5",
+    "year": 1996
+  },
+  {
+    "model": "rolling_5",
+    "year": 1997
+  },
+  {
+    "model": "rolling_5",
+    "year": 1998
+  },
+  {
+    "model": "rolling_5",
+    "year": 1999
+  },
+  {
+    "model": "rolling_5",
+    "year": 2000
+  },
+  {
+    "model": "rolling_5",
+    "year": 2001
+  },
+  {
+    "model": "rolling_5",
+    "year": 2002
+  },
+  {
+    "model": "rolling_5",
+    "year": 2003
+  },
+  {
+    "model": "rolling_5",
+    "year": 2004
+  },
+  {
+    "model": "rolling_5",
+    "year": 2005
+  },
+  {
+    "model": "rolling_5",
+    "year": 2006
+  },
+  {
+    "model": "rolling_5",
+    "year": 2007
+  },
+  {
+    "model": "rolling_5",
+    "year": 2008
+  },
+  {
+    "model": "rolling_5",
+    "year": 2009
+  },
+  {
+    "model": "rolling_5",
+    "year": 2010
+  },
+  {
+    "model": "rolling_5",
+    "year": 2011
+  },
+  {
+    "model": "rolling_5",
+    "year": 2012
+  },
+  {
+    "model": "rolling_5",
+    "year": 2013
+  },
+  {
+    "model": "rolling_5",
+    "year": 2014
+  },
+  {
+    "model": "rolling_5",
+    "year": 2015
+  },
+  {
+    "model": "rolling_10",
+    "year": 1996
+  },
+  {
+    "model": "rolling_10",
+    "year": 1997
+  },
+  {
+    "model": "rolling_10",
+    "year": 1998
+  },
+  {
+    "model": "rolling_10",
+    "year": 1999
+  },
+  {
+    "model": "rolling_10",
+    "year": 2000
+  },
+  {
+    "model": "rolling_10",
+    "year": 2001
+  },
+  {
+    "model": "rolling_10",
+    "year": 2002
+  },
+  {
+    "model": "rolling_10",
+    "year": 2003
+  },
+  {
+    "model": "rolling_10",
+    "year": 2004
+  },
+  {
+    "model": "rolling_10",
+    "year": 2005
+  },
+  {
+    "model": "rolling_10",
+    "year": 2006
+  },
+  {
+    "model": "rolling_10",
+    "year": 2007
+  },
+  {
+    "model": "rolling_10",
+    "year": 2008
+  },
+  {
+    "model": "rolling_10",
+    "year": 2009
+  },
+  {
+    "model": "rolling_10",
+    "year": 2010
+  },
+  {
+    "model": "rolling_10",
+    "year": 2011
+  },
+  {
+    "model": "rolling_10",
+    "year": 2012
+  },
+  {
+    "model": "rolling_10",
+    "year": 2013
+  },
+  {
+    "model": "rolling_10",
+    "year": 2014
+  },
+  {
+    "model": "rolling_10",
+    "year": 2015
+  },
+  {
+    "model": "rolling_20",
+    "year": 1996
+  },
+  {
+    "model": "rolling_20",
+    "year": 1997
+  },
+  {
+    "model": "rolling_20",
+    "year": 1998
+  },
+  {
+    "model": "rolling_20",
+    "year": 1999
+  },
+  {
+    "model": "rolling_20",
+    "year": 2000
+  },
+  {
+    "model": "rolling_20",
+    "year": 2001
+  },
+  {
+    "model": "rolling_20",
+    "year": 2002
+  },
+  {
+    "model": "rolling_20",
+    "year": 2003
+  },
+  {
+    "model": "rolling_20",
+    "year": 2004
+  },
+  {
+    "model": "rolling_20",
+    "year": 2005
+  },
+  {
+    "model": "rolling_20",
+    "year": 2006
+  },
+  {
+    "model": "rolling_20",
+    "year": 2007
+  },
+  {
+    "model": "rolling_20",
+    "year": 2008
+  },
+  {
+    "model": "rolling_20",
+    "year": 2009
+  },
+  {
+    "model": "rolling_20",
+    "year": 2010
+  },
+  {
+    "model": "rolling_20",
+    "year": 2011
+  },
+  {
+    "model": "rolling_20",
+    "year": 2012
+  },
+  {
+    "model": "rolling_20",
+    "year": 2013
+  },
+  {
+    "model": "rolling_20",
+    "year": 2014
+  },
+  {
+    "model": "rolling_20",
+    "year": 2015
+  },
+  {
+    "model": "drift",
+    "year": 1996
+  },
+  {
+    "model": "drift",
+    "year": 1997
+  },
+  {
+    "model": "drift",
+    "year": 1998
+  },
+  {
+    "model": "drift",
+    "year": 1999
+  },
+  {
+    "model": "drift",
+    "year": 2000
+  },
+  {
+    "model": "drift",
+    "year": 2001
+  },
+  {
+    "model": "drift",
+    "year": 2002
+  },
+  {
+    "model": "drift",
+    "year": 2003
+  },
+  {
+    "model": "drift",
+    "year": 2004
+  },
+  {
+    "model": "drift",
+    "year": 2005
+  },
+  {
+    "model": "drift",
+    "year": 2006
+  },
+  {
+    "model": "drift",
+    "year": 2007
+  },
+  {
+    "model": "drift",
+    "year": 2008
+  },
+  {
+    "model": "drift",
+    "year": 2009
+  },
+  {
+    "model": "drift",
+    "year": 2010
+  },
+  {
+    "model": "drift",
+    "year": 2011
+  },
+  {
+    "model": "drift",
+    "year": 2012
+  },
+  {
+    "model": "drift",
+    "year": 2013
+  },
+  {
+    "model": "drift",
+    "year": 2014
+  },
+  {
+    "model": "drift",
+    "year": 2015
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1996,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1997,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1998,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 1999,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2000,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2001,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2002,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2003,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2004,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2005,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2006,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2007,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2008,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2009,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2010,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2011,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2012,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2013,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2014,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_0_0_0",
+    "year": 2015,
+    "converged": true,
+    "warnings": []
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1996,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1997,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1998,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 1999,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2000,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2001,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2002,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2003,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2004,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2005,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2006,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2007,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2008,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2009,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2010,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2011,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2012,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2013,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2014,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "arima_3_1_2",
+    "year": 2015,
+    "converged": true,
+    "warnings": [
+      "Non-invertible starting MA parameters found. Using zeros as starting parameters.",
+      "Non-stationary starting autoregressive parameters found. Using zeros as starting parameters."
+    ]
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1996
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1997
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1998
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 1999
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2000
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2001
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2002
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2003
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2004
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2005
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2006
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2007
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2008
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2009
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2010
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2011
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2012
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2013
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2014
+  },
+  {
+    "model": "prophet_0.001",
+    "year": 2015
+  },
+  {
+    "model": "ridge_100",
+    "year": 1996
+  },
+  {
+    "model": "ridge_100",
+    "year": 1997
+  },
+  {
+    "model": "ridge_100",
+    "year": 1998
+  },
+  {
+    "model": "ridge_100",
+    "year": 1999
+  },
+  {
+    "model": "ridge_100",
+    "year": 2000
+  },
+  {
+    "model": "ridge_100",
+    "year": 2001
+  },
+  {
+    "model": "ridge_100",
+    "year": 2002
+  },
+  {
+    "model": "ridge_100",
+    "year": 2003
+  },
+  {
+    "model": "ridge_100",
+    "year": 2004
+  },
+  {
+    "model": "ridge_100",
+    "year": 2005
+  },
+  {
+    "model": "ridge_100",
+    "year": 2006
+  },
+  {
+    "model": "ridge_100",
+    "year": 2007
+  },
+  {
+    "model": "ridge_100",
+    "year": 2008
+  },
+  {
+    "model": "ridge_100",
+    "year": 2009
+  },
+  {
+    "model": "ridge_100",
+    "year": 2010
+  },
+  {
+    "model": "ridge_100",
+    "year": 2011
+  },
+  {
+    "model": "ridge_100",
+    "year": 2012
+  },
+  {
+    "model": "ridge_100",
+    "year": 2013
+  },
+  {
+    "model": "ridge_100",
+    "year": 2014
+  },
+  {
+    "model": "ridge_100",
+    "year": 2015
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1996
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1997
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1998
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 1999
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2000
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2001
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2002
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2003
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2004
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2005
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2006
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2007
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2008
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2009
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2010
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2011
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2012
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2013
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2014
+  },
+  {
+    "model": "forest_depth_2",
+    "year": 2015
+  }
+]
